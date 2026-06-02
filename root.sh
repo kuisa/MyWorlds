@@ -18,7 +18,7 @@ fi
 if [ ! -e $ROOTFS_DIR/.installed ]; then
   echo "#######################################################################################"
   echo "#"
-  echo "#                                      Foxytoux INSTALLER"
+  echo "#                                      Foxytoux INSTALLER(Ubuntu 20.04)"
   echo "#"
   echo "#                           Copyright (C) 2024, RecodeStudios.Cloud"
   echo "#"
