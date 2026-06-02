@@ -17,7 +17,7 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 
     ```sh
     git clone https://github.com/kuisa/MyWorlds.git
-    cd freeroot
+    cd MyWorlds
     ```
 
 2. Run the installer script:
